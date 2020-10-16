@@ -1,0 +1,11 @@
+vendor/
+.idea/
+*.iml
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+*.sqlite
+storage/*.key
+.rnd
+client_secret.json
